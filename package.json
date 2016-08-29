@@ -1,0 +1,17 @@
+{
+  "name": "overbot",
+  "version": "0.0.1",
+  "description": "Discord Bot made in node using discord.js and lootbox.eu",
+  "main": "overbot.js",
+  "dependencies": {
+    "aws-sdk": "^2.5.3",
+    "discord.js": "^8.1.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quentin Lowery",
+  "license": "ISC"
+}
